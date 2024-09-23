@@ -103,22 +103,6 @@ header{
     border: 2px solid #f75023;
     color: var(--bg-color);
 }
-/* @media (min-width: 992px) and (max-width: 1380px){
-    .navlist a{
-        font-size: var(--p-font);
-        color: var(--bg-color);
-        font-weight: 750;
-        padding: 10px 27px;
-        transition: ease 0.4s;
-    }
-    .top-btn{
-        
-        border-radius: 50px;
-        border: 2px solid #FFA500;
-        font-weight: 750;
-
-    }
-} */
 section{
     padding: 100px ;
 }
@@ -128,7 +112,6 @@ section{
     width: 100%;
     background: url(../img/mee1.JPG);
     background-size: cover;
-    background-position: left;
     background-position: top;
     position: relative;
     display: grid;
@@ -791,7 +774,6 @@ form button{
                 padding: 0.55rem 0;
                 width: 130px;
                 font-weight: 600;
-                /* background: transparent; */
                 margin: 0 0.5rem;
                 cursor: pointer;
             }
